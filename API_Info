@@ -1,0 +1,11 @@
+OAuth 2.0 Client ID
+2288W8
+
+Client Secret
+773dd7eea1c1660598fb3fdaeccd0170
+
+OAuth 2.0: Authorization URI
+https://www.fitbit.com/oauth2/authorize
+
+OAuth 2.0: Access/Refresh Token Request URI
+https://api.fitbit.com/oauth2/token
